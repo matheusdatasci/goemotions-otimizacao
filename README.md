@@ -1,4 +1,4 @@
-#  GoEmotions Fine-Tuning – Data & Optimization Experiment
+#  GPU Training Optimization 
 
 ### Objetivo
 
