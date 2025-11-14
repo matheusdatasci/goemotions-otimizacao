@@ -1,5 +1,5 @@
 #  GoEmotions Fine-Tuning – Data & Optimization Experiment
----
+
 ### Objetivo
 
 Este repositório apresenta um experimento de fine-tuning no dataset GoEmotions, com foco em otimização do treino e eficiência de dados em uma GPU limitada.
