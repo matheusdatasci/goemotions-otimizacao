@@ -5,7 +5,7 @@
 Este repositório apresenta um experimento de fine-tuning no dataset GoEmotions, com foco em otimização do treino e eficiência de dados em uma GPU limitada.
 
 O experimento atual foi feito a partir de um treino semelhante ao do modelo [pinheiro-roberta-goemotions](https://github.com/matheusdatasci/analise-de-sentimentos-nlp), porém injentando três vezes mais 
-quantidades de dados do que no primeiro modelo citado, ao passo que permitisse fazer a duração de ambos os treinos seram a mesma utilizando a mesma GPU T4.
+quantidades de dados do que no primeiro modelo citado, ao passo que permitisse fazer a duração de ambos os treinos ser a mesma utilizando a mesma GPU T4.
 
 ### Experimentos
 
